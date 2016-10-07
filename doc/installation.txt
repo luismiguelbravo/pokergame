@@ -1,0 +1,8 @@
+	- put index.php and baraja.png into your htdocs
+
+	- this program was writed in php, html and javascript.
+	- you need apache server and php in order to performace this code
+	- enojoy 
+
+By Bravo Luis Miguel
+http://bravoluismiguel.com.ve/
